@@ -13,9 +13,9 @@ namespace udpConnection
         const string host = "10.0.1.7";
         static UdpWriter writer;
         
-        public ShimonGestureController() {
+        //public ShimonGestureController() {
             
-        }
+        //}
 
         public static void performGesture(Gesture g)
         {

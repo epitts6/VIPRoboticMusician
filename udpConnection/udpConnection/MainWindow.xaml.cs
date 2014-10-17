@@ -24,7 +24,7 @@ namespace udpConnection
     /// </summary>
     public partial class MainWindow : Window
     {
-        UdpUser client;
+        //UdpUser client;
         UdpWriter writer;
 
         public MainWindow()
@@ -89,15 +89,9 @@ namespace udpConnection
 
         private void Nod_Click(object sender, RoutedEventArgs e)
         {
-            Movement m1 = new Movement(DOF.HEADTILT, -0.5f, 2f);
-            Movement p1 = new Movement(DOF.PAUSE, 0.5f);
-            Movement m2 = new Movement(DOF.HEADTILT, 0f, 2f);
-            Gesture g = new Gesture();
-            g.addMovement(m1);
-            g.addMovement(p1);
-            g.addMovement(m2);
+            
 
-            ShimonGestureController.performGesture(g);
+            ShimonGestureController.performGesture(GestureLibrary.Nod());
         }
 
     }
