@@ -1,0 +1,48 @@
+F:\workplace\VIP\udpConnection\udpConnection\bin\Debug\udpConnection.exe.config
+F:\workplace\VIP\udpConnection\udpConnection\obj\Debug\udpConnection.csprojResolveAssemblyReference.cache
+F:\workplace\VIP\udpConnection\udpConnection\obj\Debug\MainWindow.baml
+F:\workplace\VIP\udpConnection\udpConnection\obj\Debug\MainWindow.g.cs
+F:\workplace\VIP\udpConnection\udpConnection\obj\Debug\App.g.cs
+F:\workplace\VIP\udpConnection\udpConnection\obj\Debug\udpConnection_MarkupCompile.cache
+F:\workplace\VIP\udpConnection\udpConnection\obj\Debug\udpConnection.g.resources
+F:\workplace\VIP\udpConnection\udpConnection\obj\Debug\udpConnection.Properties.Resources.resources
+F:\workplace\VIP\udpConnection\udpConnection\obj\Debug\udpConnection.csproj.GenerateResource.Cache
+F:\workplace\VIP\RoboticMusician\udpConnection\udpConnection\bin\Debug\udpConnection.exe.config
+F:\workplace\VIP\RoboticMusician\udpConnection\udpConnection\obj\Debug\udpConnection.csprojResolveAssemblyReference.cache
+F:\workplace\VIP\RoboticMusician\udpConnection\udpConnection\obj\Debug\MainWindow.baml
+F:\workplace\VIP\RoboticMusician\udpConnection\udpConnection\obj\Debug\MainWindow.g.cs
+F:\workplace\VIP\RoboticMusician\udpConnection\udpConnection\obj\Debug\App.g.cs
+F:\workplace\VIP\RoboticMusician\udpConnection\udpConnection\obj\Debug\udpConnection_MarkupCompile.cache
+F:\workplace\VIP\RoboticMusician\udpConnection\udpConnection\obj\Debug\udpConnection.g.resources
+F:\workplace\VIP\RoboticMusician\udpConnection\udpConnection\obj\Debug\udpConnection.Properties.Resources.resources
+F:\workplace\VIP\RoboticMusician\udpConnection\udpConnection\obj\Debug\udpConnection.csproj.GenerateResource.Cache
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master\udpConnection\udpConnection\bin\Debug\udpConnection.exe.config
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master\udpConnection\udpConnection\bin\Debug\udpConnection.exe
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master\udpConnection\udpConnection\bin\Debug\udpConnection.pdb
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master\udpConnection\udpConnection\bin\Debug\Ventuz.OSC.dll
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master\udpConnection\udpConnection\bin\Debug\Ventuz.OSC.xml
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master\udpConnection\udpConnection\obj\Debug\udpConnection.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master\udpConnection\udpConnection\obj\Debug\MainWindow.baml
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master\udpConnection\udpConnection\obj\Debug\MainWindow.g.cs
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master\udpConnection\udpConnection\obj\Debug\App.g.cs
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master\udpConnection\udpConnection\obj\Debug\udpConnection_MarkupCompile.cache
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master\udpConnection\udpConnection\obj\Debug\udpConnection.g.resources
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master\udpConnection\udpConnection\obj\Debug\udpConnection.Properties.Resources.resources
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master\udpConnection\udpConnection\obj\Debug\udpConnection.csproj.GenerateResource.Cache
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master\udpConnection\udpConnection\obj\Debug\udpConnection.exe
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master\udpConnection\udpConnection\obj\Debug\udpConnection.pdb
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master-working\udpConnection\udpConnection\bin\Debug\udpConnection.exe.config
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master-working\udpConnection\udpConnection\obj\Debug\udpConnection.exe
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master-working\udpConnection\udpConnection\obj\Debug\udpConnection.pdb
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master-working\udpConnection\udpConnection\bin\Debug\udpConnection.exe
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master-working\udpConnection\udpConnection\bin\Debug\udpConnection.pdb
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master-working\udpConnection\udpConnection\bin\Debug\Ventuz.OSC.dll
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master-working\udpConnection\udpConnection\bin\Debug\Ventuz.OSC.xml
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master-working\udpConnection\udpConnection\obj\Debug\udpConnection.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master-working\udpConnection\udpConnection\obj\Debug\MainWindow.baml
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master-working\udpConnection\udpConnection\obj\Debug\MainWindow.g.cs
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master-working\udpConnection\udpConnection\obj\Debug\App.g.cs
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master-working\udpConnection\udpConnection\obj\Debug\udpConnection_MarkupCompile.cache
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master-working\udpConnection\udpConnection\obj\Debug\udpConnection.g.resources
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master-working\udpConnection\udpConnection\obj\Debug\udpConnection.Properties.Resources.resources
+C:\Users\Alan\Dropbox\Public\School Work\Junior\Fall 14\Robotic Musicianship\RoboticMusician-master-working\udpConnection\udpConnection\obj\Debug\udpConnection.csproj.GenerateResource.Cache
