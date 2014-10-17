@@ -58,6 +58,7 @@
     </ApplicationDefinition>
     <Compile Include="DOF.cs" />
     <Compile Include="Gesture.cs" />
+    <Compile Include="GestureLibrary.cs" />
     <Compile Include="ShimonGestureController.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>

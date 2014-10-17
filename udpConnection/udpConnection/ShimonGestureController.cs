@@ -28,7 +28,7 @@ namespace udpConnection
             foreach (Movement m in movements)
             {
                 if (m.type == DOF.PAUSE) {
-                    System.Threading.Thread.Sleep((int)m.timeToPause * 1000);
+                    System.Threading.Thread.Sleep((int)(m.timeToPause * 1000));
                 }
                 else {
                     var messages = new List<OscElement>();

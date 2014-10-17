@@ -60,3 +60,17 @@ C:\Users\emily\Georgia Tech\VIP\VIPRoboticMusician\udpConnection\udpConnection\o
 C:\Users\emily\Georgia Tech\VIP\VIPRoboticMusician\udpConnection\udpConnection\bin\Debug\udpConnection.exe
 C:\Users\emily\Georgia Tech\VIP\VIPRoboticMusician\udpConnection\udpConnection\bin\Debug\udpConnection.pdb
 C:\Users\emily\Georgia Tech\VIP\VIPRoboticMusician\udpConnection\udpConnection\bin\Debug\Ventuz.OSC.xml
+C:\Users\Alan\Documents\GitHub\VIPRoboticMusician\udpConnection\udpConnection\bin\Debug\udpConnection.exe.config
+C:\Users\Alan\Documents\GitHub\VIPRoboticMusician\udpConnection\udpConnection\obj\Debug\udpConnection.exe
+C:\Users\Alan\Documents\GitHub\VIPRoboticMusician\udpConnection\udpConnection\obj\Debug\udpConnection.pdb
+C:\Users\Alan\Documents\GitHub\VIPRoboticMusician\udpConnection\udpConnection\bin\Debug\udpConnection.exe
+C:\Users\Alan\Documents\GitHub\VIPRoboticMusician\udpConnection\udpConnection\bin\Debug\udpConnection.pdb
+C:\Users\Alan\Documents\GitHub\VIPRoboticMusician\udpConnection\udpConnection\bin\Debug\Ventuz.OSC.xml
+C:\Users\Alan\Documents\GitHub\VIPRoboticMusician\udpConnection\udpConnection\obj\Debug\udpConnection.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Documents\GitHub\VIPRoboticMusician\udpConnection\udpConnection\obj\Debug\MainWindow.baml
+C:\Users\Alan\Documents\GitHub\VIPRoboticMusician\udpConnection\udpConnection\obj\Debug\MainWindow.g.cs
+C:\Users\Alan\Documents\GitHub\VIPRoboticMusician\udpConnection\udpConnection\obj\Debug\App.g.cs
+C:\Users\Alan\Documents\GitHub\VIPRoboticMusician\udpConnection\udpConnection\obj\Debug\udpConnection_MarkupCompile.cache
+C:\Users\Alan\Documents\GitHub\VIPRoboticMusician\udpConnection\udpConnection\obj\Debug\udpConnection.g.resources
+C:\Users\Alan\Documents\GitHub\VIPRoboticMusician\udpConnection\udpConnection\obj\Debug\udpConnection.Properties.Resources.resources
+C:\Users\Alan\Documents\GitHub\VIPRoboticMusician\udpConnection\udpConnection\obj\Debug\udpConnection.csproj.GenerateResource.Cache
